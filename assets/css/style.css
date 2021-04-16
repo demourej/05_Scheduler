@@ -1,0 +1,50 @@
+.jumbotron {
+    text-align: center;
+}
+
+#currentDay {
+    font-weight: bolder;
+    font-size: 20px;
+    color: navy;
+}
+
+.timeBox {
+    background-color: lightgrey;
+    border-top: gray solid 1px;
+    border-right: gray solid 1px;
+    border-bottom: gray solid 1px;
+    padding: 10px;
+    text-align: end;
+}
+
+.iconBox {
+    background-color: lightseagreen;
+    border-top: white solid 1px;
+    border-leftt: gray solid 1px;
+    border-bottom: white solid 1px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.activityBox {
+    text-align: start;
+    border-top: white solid 1px;
+    border-bottom: white solid 1px;
+    padding: 0px;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: navy;
+  }
